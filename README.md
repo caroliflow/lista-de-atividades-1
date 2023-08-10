@@ -1,2 +1,2 @@
-# Lista De Atividades 1
-## Aula FPOO - Fundamentos De Programação Orientada a Objetos
+# Lista de Atividades 1
+## Aula FPOO - Fundamentos de Programação Orientada a Objetos
